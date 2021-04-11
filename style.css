@@ -1,0 +1,32 @@
+body{
+	background-color: #40514e;
+}
+.bg-light
+{
+	background-color: #30e3ca!important;
+}
+.top1{
+	height:500px!important;width: 35%!important;
+	background-color: #e4f9f5;
+}
+.heading{
+	text-align: center;
+	margin-top: 23%;
+	font-size: 8rem;
+	font-family: 'Dancing Script', cursive;
+	transition:font-size .5s ease ,transform .5s linear;
+
+}
+.heading:hover{
+	font-size:10rem;
+	transform: rotate(-30deg);
+}
+.top2{
+	height:500px!important;width: 65%!important;
+		background-color: #11999e
+}
+.col-sm-12
+{
+	height: 100%;
+
+}
